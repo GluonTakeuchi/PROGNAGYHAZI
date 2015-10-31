@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("fahfsajlfhasjfhaslfhalfhalsfhalfhslafhakhfsakfhalfhaksfhalfhahhlhlhlhlhkyxyxyxyxyyxyyyyyxyxyxcx\n");
+    printf("yxyxcx\n");
     return 0;
 }
